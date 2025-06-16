@@ -1,7 +1,7 @@
 # desafio-azure-vm-dio
 
 
-#  Desafio DIO: Gerenciamento de Máquinas Virtuais no Azure (Windows)
+#  Desafio DIO: Gerenciamento de VMs no Azure
 
 Este repositório documenta o desafio prático realizado no Bootcamp AZ-104 da DIO, com foco na criação, configuração e gerenciamento de máquinas virtuais no Microsoft Azure.
 
